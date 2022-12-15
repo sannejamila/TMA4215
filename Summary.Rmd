@@ -1,0 +1,9 @@
+---
+title: "TMA4215 - Numerical Mathmatics"
+author: "Sanne Jamila Olsen"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
